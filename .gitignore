@@ -1,0 +1,3 @@
+# Compiled Python stuff
+__pycache__/
+*.py[cod]
